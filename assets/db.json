@@ -1,0 +1,63 @@
+[
+    {
+        "title": "Portfolio 2021",
+        "link": "https://javieralbites.xyz",
+        "cover": "https://res.cloudinary.com/ddzblkqfa/image/upload/v1632550069/portfolio/Sin_nombre_1_q6skrw.png",
+        "tecs": [
+            "html",
+            "scss",
+            "nuxt"
+        ],
+        "github": "https://github.com/javieralbites/"
+        
+    },
+    {
+        "title": "Rest Countries API",
+        "link": "google.com",
+        "cover": "https://fotos-ayvisa.s3.eu-west-3.amazonaws.com/wp-content/uploads/2021/04/24092552/mejores-animes-de-accion-1024x500.jpg",
+        "tecs": [
+            "html",
+            "scss",
+            "vue"
+        ],
+        "github": "https://github.com/javieralbites/"
+        
+    },
+    {
+        "title": "Landing Page Machu Picchu",
+        "link": "https://angry-nobel-29f3f3.netlify.app/",
+        "cover": "https://res.cloudinary.com/ddzblkqfa/image/upload/v1632548920/portfolio/angry-nobel-29f3f3.netlify.app__1_b8f0ph.png",
+        "tecs": [
+            "html",
+            "css",
+            "javascript",
+            "gsap"
+        ],
+        "github": "https://github.com/javieralbites/"
+        
+    },
+    {
+        "title": "Landing Page ROOM (Frontend Mentor Challenge)",
+        "link": "https://ecstatic-payne-6671ee.netlify.app/",
+        "cover": "https://res.cloudinary.com/ddzblkqfa/image/upload/v1632548184/portfolio/screencapture-ecstatic-payne-6671ee-netlify-app-1632547913839_jhfzha.png",
+        "tecs": [
+            "html",
+            "css",
+            "vue"
+        ],
+        "github": "https://github.com/javieralbites/room"
+        
+    },
+    {
+        "title": "Landing Page Loopstudios (Frontend Mentor Challenge)",
+        "link": "https://awesome-wiles-a0db01.netlify.app/",
+        "cover": "https://res.cloudinary.com/ddzblkqfa/image/upload/v1632549588/portfolio/screencapture-awesome-wiles-a0db01-netlify-app-1632549241751_rdrncz.png",
+        "tecs": [
+            "html",
+            "css",
+            "javascript"
+        ],
+        "github": "https://github.com/javieralbites/landing-page-loopstudios/tree/master"
+        
+    }
+]
