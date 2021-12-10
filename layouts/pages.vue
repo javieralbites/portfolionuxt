@@ -7,8 +7,8 @@
       </NuxtLink>
       <ul>
         <NuxtLink tag="li" to="/"> Home </NuxtLink>
-        <NuxtLink tag="li" to="/portfolio"> Portfolio </NuxtLink>
         <NuxtLink tag="li" to="/about"> About Me </NuxtLink>
+        <NuxtLink tag="li" to="/portfolio"> Portfolio </NuxtLink>
       </ul>
     </nav>
     <Nuxt />
@@ -55,7 +55,8 @@ export default {
 nav {
   width: 100%;
   position: fixed;
-  background: rgba(0, 0, 0, 0.85);
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(10px);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -64,6 +65,12 @@ nav {
   transition: .2s ease-in;
   &.sticky{
     padding: .8em 4em;
+    @media (max-width:480px) {
+      padding: .5em 1.8em;
+    }
+    img{
+      height: 1.8em;
+    }
   }
   @media (max-width: 992px) {
     padding: 0.8em 1.8em;

@@ -15,10 +15,11 @@
           :cover="p.cover"
           :github="p.github"
           :tecs="p.tecs"
+          :index="index"
         />
       </div>
     </section>
-    
+    <Footer/>
   </div>
 </template>
 
@@ -37,12 +38,17 @@ export default {
 <style lang="scss" scoped>
 .header {
   background-image: url('@/assets/backportfolio.jpg');
+  // background-attachment: fixed;
 }
 h2 {
   color: #fff;
   font-weight: 800;
   font-size: 4em;
   text-transform: capitalize;
+  @media (max-width:920px) {
+    font-size: 3.5em;
+    // font-weight: 600;
+  }
 }
 .aber{
   width: 100%;

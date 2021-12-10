@@ -1,35 +1,77 @@
 [
     {
+        "title": "Movie Search App",
+        "link": "https://wizardly-ride-9474ac.netlify.app/",
+        "cover": "https://res.cloudinary.com/ddzblkqfa/image/upload/v1637693578/portfolio/screencapture-wizardly-ride-9474ac-netlify-app-1637693287231_1_1_he5jov.png",
+        "tecs": [
+            "html",
+            "sass",
+            "vue3",
+            "vite",
+            "rest api",
+            "axios",
+            "swiperJs"
+        ],
+        "github": "https://github.com/javieralbites/movieapp-vue3-vite"
+    },
+    {
+        "title": "Memory Game The Office",
+        "link": "https://memojuegovue.netlify.app/",
+        "cover": "https://res.cloudinary.com/ddzblkqfa/image/upload/v1637694191/portfolio/screencapture-memojuegovue-netlify-app-1637694104761_1_tcocd4.png",
+        "tecs": [
+            "html",
+            "sass",
+            "vue3",
+            "local storage"
+        ],
+        "github": "https://github.com/javieralbites/memojuego2/tree/master"
+        
+    },
+    {
         "title": "Portfolio 2021",
         "link": "https://javieralbites.xyz",
         "cover": "https://res.cloudinary.com/ddzblkqfa/image/upload/v1632550069/portfolio/Sin_nombre_1_q6skrw.png",
         "tecs": [
             "html",
-            "scss",
+            "sass",
             "nuxt"
         ],
         "github": "https://github.com/javieralbites/"
         
     },
     {
-        "title": "Rest Countries API",
-        "link": "google.com",
-        "cover": "https://fotos-ayvisa.s3.eu-west-3.amazonaws.com/wp-content/uploads/2021/04/24092552/mejores-animes-de-accion-1024x500.jpg",
+        "title": "Landing Page Fylo (Frontend Mentor Challenge)",
+        "link": "https://wizardly-mestorf-8c0177.netlify.app/",
+        "cover": "https://res.cloudinary.com/ddzblkqfa/image/upload/v1637701105/portfolio/Document_1_im0glw.png",
         "tecs": [
             "html",
-            "scss",
-            "vue"
+            "css"
         ],
         "github": "https://github.com/javieralbites/"
         
     },
     {
+        "title": "Rest Countries API (Frontend Mentor Challenge)",
+        "link": "https://kind-mirzakhani-7bc661.netlify.app/",
+        "cover": "https://res.cloudinary.com/ddzblkqfa/image/upload/v1637705190/portfolio/Where_in_the_wor_1_it2rhc.png",
+        "tecs": [
+            "html",
+            "sass",
+            "nuxt2",
+            "rest api",
+            "axios",
+            "dark mode"
+        ],
+        "github": "https://github.com/javieralbites/rest-countries-api-nuxt/tree/master"
+        
+    },
+    {
         "title": "Landing Page Machu Picchu",
-        "link": "https://angry-nobel-29f3f3.netlify.app/",
+        "link": "https://epic-kirch-837121.netlify.app/",
         "cover": "https://res.cloudinary.com/ddzblkqfa/image/upload/v1632548920/portfolio/angry-nobel-29f3f3.netlify.app__1_b8f0ph.png",
         "tecs": [
             "html",
-            "css",
+            "css3",
             "javascript",
             "gsap"
         ],
@@ -42,7 +84,7 @@
         "cover": "https://res.cloudinary.com/ddzblkqfa/image/upload/v1632548184/portfolio/screencapture-ecstatic-payne-6671ee-netlify-app-1632547913839_jhfzha.png",
         "tecs": [
             "html",
-            "css",
+            "css3",
             "vue"
         ],
         "github": "https://github.com/javieralbites/room"
@@ -54,7 +96,7 @@
         "cover": "https://res.cloudinary.com/ddzblkqfa/image/upload/v1632549588/portfolio/screencapture-awesome-wiles-a0db01-netlify-app-1632549241751_rdrncz.png",
         "tecs": [
             "html",
-            "css",
+            "css3",
             "javascript"
         ],
         "github": "https://github.com/javieralbites/landing-page-loopstudios/tree/master"
