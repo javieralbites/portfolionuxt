@@ -14,7 +14,7 @@
       <p>
         Hola, mi nombre es Javier, soy graduado de la carrera profesional de
         Ingeniería de Sistemas, trabajo como Frontend Developer Freelancer desde
-        hace un par de años. Realizo Páginas Web, SPAs(Single Page Aplication)
+        hace unos meses. Realizo Páginas Web, SPAs(Single Page Aplication)
         Aplicaciones Web con tecnologías modernas como Vue y todo su ecosistema:
         Vue Router, Vuex, Vuetify, Nuxt, etc.
       </p>
