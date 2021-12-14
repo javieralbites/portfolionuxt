@@ -27,6 +27,61 @@
 import json from "@/assets/db.json"
 export default {
   layout:'pages',
+  head: {
+    title: 'Javier Albites | Porfolio',
+    meta: [
+      {
+        hid: 'description',
+        name: 'description',
+        content: 'Portfolio'
+      },
+      {
+          hid: 'twitter:title',
+          name: 'twitter:title',
+          content: 'Javier Albites | Porfolio'
+        },
+        {
+          hid: 'twitter:description',
+          name: 'twitter:description',
+          content: 'Portfolio'
+        },
+        {
+          hid: 'twitter:image',
+          name: 'twitter:image',
+          content: 'https://res.cloudinary.com/ddzblkqfa/image/upload/v1639485524/portfolio/omgportfolio_kjqgvt.png'
+        },
+        {
+          hid: 'twitter:image:alt',
+          name: 'twitter:image:alt',
+          content: 'Javier Albites | Porfolio'
+        },
+        {
+          hid: 'og:title',
+          property: 'og:title',
+          content: 'Javier Albites | Porfolio'
+        },
+        {
+          hid: 'og:description',
+          property: 'og:description',
+          content: 'Portfolio'
+        },
+        {
+          hid: 'og:image',
+          property: 'og:image',
+          content: 'https://res.cloudinary.com/ddzblkqfa/image/upload/v1639485524/portfolio/omgportfolio_kjqgvt.png'
+        },
+        {
+          hid: 'og:image:secure_url',
+          property: 'og:image:secure_url',
+          content: 'https://res.cloudinary.com/ddzblkqfa/image/upload/v1639485524/portfolio/omgportfolio_kjqgvt.png'
+        },
+        {
+          hid: 'og:image:alt',
+          property: 'og:image:alt',
+          content: 'Javier Albites | Porfolio'
+        }
+    ],
+  },
   data() {
     return {
       data: json
@@ -49,10 +104,5 @@ h2 {
     font-size: 3.5em;
     // font-weight: 600;
   }
-}
-.aber{
-  width: 100%;
-  height: 200vh;
-  background-color: turquoise;
 }
 </style>
