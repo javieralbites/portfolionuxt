@@ -4,7 +4,7 @@
       <h2>Contact me</h2>
       <h3>javieralbite@gmail.com</h3>
       <div class="links">
-        <a href="https://www.facebook.com/javier.albites.90/">Facebook</a>
+        <!-- <a href="https://www.facebook.com/javier.albites.90/">Facebook</a> -->
         <a href="https://www.linkedin.com/in/javieralbites/">LinkedIn</a>
         <a href="https://t.me/javierdevfront">Telegram</a>
       </div>

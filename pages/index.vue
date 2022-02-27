@@ -38,7 +38,7 @@
       <h4>Contact Me</h4>
       <p>javieralbite@gmail.com</p>
       <ul>
-        <li>Facebook</li>
+        <!-- <li>Facebook</li> -->
         <li>LinkedIn</li>
         <li>Telegram</li>
       </ul>
